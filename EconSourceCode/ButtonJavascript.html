@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<title>Button Javascript Test</title>
+<head>
+    <script>
+        function Initialchange()
+        {
+            document.getElementById("TestButton").innerHTML="Post-Click";
+        }
+        function Restart()
+        {
+            document.getElementById("TestButton").innerHTML="Pre-Click";
+        }
+    </script>
+</head>
+
+<body>
+
+<h1>Base Page</h1>
+
+<p id="TestButton">Pre-Click</p>
+
+<button type="button" onclick="Initialchange()">Click Me!</button>
+<button type="button" onclick="Restart()">Click Me to restart!</button>
+
+</body>
+</html>
