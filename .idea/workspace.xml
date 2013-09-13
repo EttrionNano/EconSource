@@ -4,9 +4,9 @@
     <list default="true" id="ce6e00dd-488e-47fd-85a5-ae8e07954a33" name="Default" comment="" />
     <ignored path="EconSource.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ce6e00dd-488e-47fd-85a5-ae8e07954a33" time="1379041826049" ignored="false" />
+    <file path="/Dummy.txt" changelist="ce6e00dd-488e-47fd-85a5-ae8e07954a33" time="1379048490309" ignored="false" />
     <file path="/EconGame.js" changelist="ce6e00dd-488e-47fd-85a5-ae8e07954a33" time="1379041591051" ignored="false" />
-    <file path="/Core.html" changelist="ce6e00dd-488e-47fd-85a5-ae8e07954a33" time="1379044109586" ignored="false" />
+    <file path="/Core.html" changelist="ce6e00dd-488e-47fd-85a5-ae8e07954a33" time="1379048603424" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
       <file leaf-file-name="Core.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/EconSourceCode/Core.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="51" selection-start="689" selection-end="689" vertical-scroll-proportion="0.65156794">
+            <state line="28" column="89" selection-start="753" selection-end="753" vertical-scroll-proportion="0.8292683">
               <folding />
             </state>
           </provider>
@@ -126,6 +126,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -160,7 +161,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,7 +179,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -278,6 +278,27 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/EconSourceCode/Test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EconSourceCode/ButtonJavascript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EconSourceCode/EconGame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="17" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/EconSourceCode/Core.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -364,7 +385,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/EconSourceCode/Core.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="51" selection-start="689" selection-end="689" vertical-scroll-proportion="0.65156794">
+        <state line="28" column="89" selection-start="753" selection-end="753" vertical-scroll-proportion="0.8292683">
           <folding />
         </state>
       </provider>
